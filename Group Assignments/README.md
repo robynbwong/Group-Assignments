@@ -1,14 +1,10 @@
-# Group-Project
-
+# Group-Project Proposal
 ## Research Question
 The research question we will explore is: What kinds of lands are protected with conservation easements in California? Specifically, are the lands designated by the state as "important farmland" protected under easement; and What kinds of vegetation is there on easement lands?
-
 ## Why is it important
 We think this is an important issue because the conservation of land is an important part of mitigating and adapting to the effects of climate change. Natural and working lands function as carbon sinks because they sequester carbon in the soil and plant biomass, plus the plants take carbon from the atmosphere during photosynthesis. Land preservation limits the amount of land that can be developed, theoretically reducing sprawl (which creates a lot of GHGs) and the exposure of urban development to natural disasters (which are also exacerbated by climate change). Hopefully, the preservation of a habitable planet is important to others. If not, a more specific benefit in California is the protection of our food system, which we depend on to eat but also is a significant part of the state economy. Another is the preservation of California's unique habitats and wildlife.
-
 ## Spatial Scope 
 The spatial scope is the entire state of California. While this may prove too large to take on in this project, land conservation and easements do not fit neatly within jurisdictional boundaries. California also has climate change laws and targets where the entire state is the unit of analysis, including a recent executive order signed by Governor Newsom to conserve 30% of California's land by 2030. 
-
 ## Data Sources:
 ### CCED California Conservation Easement Database
 The CCED is a GIS database that includes easements and deed-based restrictions on private land in California. It includes easements held by land trusts, nonprofits, local jurisdictions, state agencies, and national agencies. It excludes temporary easements which are in place for less than 10 years. Some of the columns in the dataset include who the easementholder is, if the land has public access, the year the easement was established, and the shapefile information. 
@@ -19,4 +15,7 @@ This database is essentially an inventory of agricultural resources in the state
 ### LANDFIRE Existing Vegetation Type
 This database represents the current distribution of plant community types on the land. The dataset covers the entire United States.
 [Link to LANDFIRE EVT] (https://landfire.cr.usgs.gov/evt.php)
-
+## Scope
+We intend to analyze what the characteristics are of the natural and working lands currently contained within consevation easements in the state. For working lands, we will try to overlay the CCED data with the Important Farmland data to see if important farmland is being protected under easement or not. This could result in a vizualization highlighting the each individual easement in the important and prime farmland designations if there are not that many; If there are a lot of easements in the farmland, it may be necessary to use graduated symbols or something like that. For natural lands, we will try to overlay the CCED data with the LANDFIRE Existing Vegetation data to show what kinds of plants/ecosystems are contained within the easements. This kind of analysis could be used in the future to quantify the potential of carbon sequestration strategies on easement lands, which vary based on the kind of habitat. We may have to nix this because documents I've read say LANDFIRE is raster data and I'm not sure if we will be able to use it. If we are able to, a visualization we could make is one that shows what kind of vegetation is contained inside the boundaries of the easements (and remove all the vegetation for the rest of the state). Every easement probably has many different vegetation types, so we may have to manipulate the data to show only the majority type. We will also probably have to combine vegetation categories.
+## Insights
+We hope to gain insight on an overall picture of what types of lands are held in easement in California. Though the CCED database is pretty comprehensive, it does not connect to what is actually on the land. We can guess based on the location and who the easementholder is, but we have not seen anything that puts those two things together yet. We may gain insight on what kinds of lands/habitats are not being protected so well right now, pointing to possible gaps in CA land protection policy.  
