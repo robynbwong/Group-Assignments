@@ -1,0 +1,7 @@
+# Group-Project
+
+The research question we will explore is: What kinds of lands are protected with conservation easements in California? Specifically, are the lands designated by the state as "important farmland" protected under easement; and What kinds of vegetation is there on easement lands?
+
+We think this is an important issue because the conservation of land is an important part of mitigating and adapting to the effects of climate change. Natural and working lands function as carbon sinks because they sequester carbon in the soil and plant biomass, plus the plants take carbon from the atmosphere during photosynthesis. Land preservation limits the amount of land that can be developed, theoretically reducing sprawl (which creates a lot of GHGs) and the exposure of urban development to natural disasters (which are also exacerbated by climate change). Hopefully, the preservation of a habitable planet is important to others. If not, a more specific benefit in California is the protection of our food system, which we depend on to eat but also is a significant part of the state economy. Another is the preservation of California's unique habitats and wildlife.
+
+The spatial scope is the entire state of California. While this may prove too large to take on in this project, land conservation and easements do not fit neatly within jurisdictional boundaries. California also has statewide climate change laws and targets, so i 
