@@ -1,10 +1,13 @@
 # Project Update
+Link 
 
+## Status
 Based on the advice from Yoh and Bo, as well as my own difficulties trying to use the Farmland dataset, I will be changing course a little bit. The CCED data is easy to use so I will keep using that. I also found a good census dataset that has how much of the county's population is urban versus rural, which I think is an interesting connection to land conservation.
 
 This past week, I tried to research how to rasterize vector data in an attempt to do something with the Farmland dataset but I did not understand any of the guides. I tried to do it in QGIS but did not understand how people know what pixel size or scale to do. I tried to open the shapefile with geopandas in jupyter hub just to take a look at the data and it was too big for the notebook memory. So I looked at it a bit as a csv file with pandas, but after doing the basic data exploration I didn't know what else to do with it. 
+## Data
 
-## Major Issues
+## Major Concerns
 ### 1 
 First, not being able to use the data I originally wanted to. But, the census dataset I got should be fine for me to use.
 ### 2
