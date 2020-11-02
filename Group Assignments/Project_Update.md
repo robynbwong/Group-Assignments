@@ -7,6 +7,9 @@ Based on the advice from Yoh and Bo, as well as my own difficulties trying to us
 This past week, I tried to research how to rasterize vector data in an attempt to do something with the Farmland dataset but I did not understand any of the guides. I tried to do it in QGIS but did not understand how people know what pixel size or scale to do. I tried to open the shapefile with geopandas in jupyter hub just to take a look at the data and it was too big for the notebook memory. So I looked at it a bit as a csv file with pandas, but after doing the basic data exploration I didn't know what else to do with it. 
 ## Data
 As mentioned in the previous section, I have downloaded a new dataset that I think is more manageable for me. It has the percentage of the county's population that resides in "urban" versus "rural" places, and breaks down the kinds of urban concentration into two categories. I exlpored it today and got rid of extra columns, as well as saw what the most and least urbanized were. 
+https://github.com/robynbwong/Group-Assignments/blob/main/Group%20Assignments/data/urb.rural.counties.csv
+
+I had previously done an exploration of the CCED dataset for the Week 2 Assignment. I will put the data in my group assignment data folder as well.
 
 
 ## Major Concerns
