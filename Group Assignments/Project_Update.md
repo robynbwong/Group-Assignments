@@ -9,11 +9,13 @@ This past week, I tried to research how to rasterize vector data in an attempt t
 As mentioned in the previous section, I have downloaded a new dataset that I think is more manageable for me. It has the percentage of the county's population that resides in "urban" versus "rural" places, and breaks down the kinds of urban concentration into two categories. I exlpored it today and got rid of extra columns, as well as saw what the most and least urbanized were. 
 https://github.com/robynbwong/Group-Assignments/blob/main/Group%20Assignments/data/urb.rural.counties.csv
 
-I had previously done an exploration of the CCED dataset for the Week 2 Assignment. I will put the data in my group assignment data folder as well.
-
+I had previously done an exploration of the CCED dataset for the Week 2 Assignment. I tried just now to put the CCED shapefile in Github but it said the file was too big.
 
 ## Major Concerns
 ### 1 
 First, not being able to use the data I originally wanted to. But, the census dataset I got should be fine for me to use.
 ### 2
 Second, I don't really understand how to make maps with categorical data. All the examples we have from class are interval-ratio and all the examples of folium are chloropleth maps. Honestly, I think this is a bigger issue for me than changing my scope a little bit. I tried to make a map to show different categories of the easement holders from my CCED but the code I tried to copy had all this stuff about making a custom legend and colors first and it made me confused. I would really like to see an example of this in class. I also am a little unsure of how to make a visualization that shows two different things overlayed, rather than just one chloropleth (like the percent black population one in class). For instance, to overlay the polygons of the easements with the chloropleth of percent urban population
+## Minor Concerns
+### 1
+I don't know how I am supposed to submit my jupyter notebook and the data so you can run it if the CCED file won't upload. Maybe it was a one-time problem? It seems like people probably upload much bigger files in github...
