@@ -1,4 +1,24 @@
-# Group-Project Proposal
+# Project Proposal (update 11/1/2020)
+## Research Question
+My research will be a detailed exploration of the CCED CA Conservation Easement Database, and if the characteristics of the conservation easements have any correlation with counties' amount of urbanity or ruralness.
+## Why is it important
+The conservation of land is an important part of mitigating and adapting to the effects of climate change. Natural and working lands function as carbon sinks because they sequester carbon in the soil and plant biomass, plus the plants take carbon from the atmosphere during photosynthesis. Land preservation limits the amount of land that can be developed, theoretically reducing sprawl (which creates a lot of GHGs) and the exposure of urban development to natural disasters (which are also exacerbated by climate change). Hopefully, the preservation of a habitable planet is important to others. If not, a more specific benefit in California is the protection of our food system, which we depend on to eat but also is a significant part of the state economy. Another is the preservation of California's unique habitats and wildlife.
+## Spatial Scope 
+The spatial scope is the entire state of California, but I will analyze if there are interesting county-level differences in the easement characteristics and in relation to county percentages of urban vs. rural population.  
+## Data Sources:
+### CCED California Conservation Easement Database
+The CCED is a GIS database that includes easements and deed-based restrictions on private land in California. It includes easements held by land trusts, nonprofits, local jurisdictions, state agencies, and national agencies. It excludes temporary easements which are in place for less than 10 years. Some of the columns in the dataset include who the easementholder is, if the land has public access, the year the easement was established, and the shapefile information. 
+[Link to CCED Database] (https://gis.data.ca.gov/datasets/3c23073ab6cb435f810a347ae268f3ae_6) 
+### Census 2010 Urban and Rural Population - County Level
+I downloaded this dataset from Social Explorer. Unfortunately it is only collected in the Decennial Census, so there is not a more recent set of this data from ACS. It includes the population that lives in urban areas and in rural areas, expressed as both a raw number and a percentage of the county's total population. It further breaks down the urban population into people living in Urban Areas and Urban Clusters.     
+## Scope
+I will see if there are patterns regarding: (1) which counties have the most easements my number and the most by acreage, and if there are any relationships to the county's urbanity or ruralness; (2) if there are concentrations of easements by private individuals, nonprofits, federal government, and state government in certain areas. I imagine there will be two visualizations where the ruralness is a chloropleth map, and one has graduated bubble sizes corresponding with the number of easements and the other has bubbles corresponding with the acreage under easement. For the second part of the question, I imagine there could be a visualization showing the easements as polygons color coded by the type of agency, and one colored by the kind of easement it is.   
+## Insights
+The theory is that conserving land will help concentrate people in smaller amounts of area, increasing urbaization and decreasing sprawl. This project cannot show anything about causality, but it can show if there is any correlation between the number of easements/area of land conserved and if people live in urban or rural concentrations. 
+
+
+
+# Group-Project Proposal (original)
 ## Research Question
 The research question we will explore is: What kinds of lands are protected with conservation easements in California? Specifically, are the lands designated by the state as "important farmland" protected under easement; and What kinds of vegetation is there on easement lands?
 ## Why is it important
